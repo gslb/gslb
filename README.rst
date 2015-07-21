@@ -9,8 +9,8 @@ Please feel here a long description which must be at least 3 lines wrapped on
 Note that this is a hard requirement.
 
 * Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/gslb
-* Source: http://git.openstack.org/cgit/openstack/gslb
+* Documentation: http://wiki.openstack.org/wiki/GSLB
+* Source: http://github.com/gslb/gslb
 * Bugs: http://bugs.launchpad.net/gslb
 
 Features
