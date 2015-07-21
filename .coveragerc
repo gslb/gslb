@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = gslb
+omit = gslb/openstack/*
+
+[report]
+ignore-errors = True
